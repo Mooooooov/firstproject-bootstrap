@@ -1,0 +1,24 @@
+
+
+
+.btn.btn-primary{
+  background-color: #780f69;
+  font-family: 'Open Sans', arial, helvetica, sans-serif;
+  font-size: 18px;
+}
+
+
+.btn.btn-light{
+  background-color: #FFFFFF;
+  color: black;
+  border: 1px solid #E5E6E7;
+  font-size: 12px;
+  color: #343434;
+}
+
+.btn.btn.btn-light:hover{
+  background-color: #D4D4D4;
+}
+
+
+
